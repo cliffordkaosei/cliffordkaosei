@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Welcome to my profile! Here you will find any personal projects I will be working on.
-I try to keep my network updated via LinkedIn, lets connect!
-https://www.linkedin.com/in/clifford-osei/
+I try to keep my network updated via LinkedIn, [lets connect](https://www.linkedin.com/in/clifford-osei/)!
 
 Please feel free to contact me with any questions or ideas😄 
 
